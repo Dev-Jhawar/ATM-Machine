@@ -15,4 +15,5 @@ A simple Java-based simulation of an Automated Teller Machine (ATM), allowing us
 
 - Java (Core)
 - Object-Oriented Programming (OOP)
+- Collection Framework (ArrayList)
   
